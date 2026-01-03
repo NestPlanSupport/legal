@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service - NestPlan</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1 { color: #007AFF; }
+        h2 { color: #333; margin-top: 30px; }
+        .updated { color: #666; font-size: 14px; }
+        a { color: #007AFF; }
+    </style>
+</head>
+<body>
+    <h1>Terms of Service</h1>
+    <p class="updated">Last updated: January 2026</p>
+
+    <h2>§ 1 Scope</h2>
+    <p>
+        (1) These Terms of Service apply to all agreements between the operator of the NestPlan app ("Provider") and its users ("User").<br><br>
+        (2) The app is intended exclusively for persons aged 16 years and older.<br><br>
+        (3) By using the app, the user accepts these Terms of Service.<br><br>
+        (4) The app is available internationally and offered in multiple languages (German, English, French, Spanish, Italian, Polish).
+    </p>
+
+    <h2>§ 2 Services</h2>
+    <p>
+        (1) The app provides a digital platform for family organization.<br><br>
+        (2) The app enables:
+    </p>
+    <ul>
+        <li>Management of family tasks and appointments</li>
+        <li>Storage of children's data and development documentation</li>
+        <li>Document management</li>
+        <li>Calendar functions and reminders</li>
+        <li>Country-specific milestones and health checkups</li>
+        <li>Synchronization between family members (with registered accounts)</li>
+    </ul>
+
+    <h2>§ 3 Types of Use</h2>
+    <p>
+        (1) <strong>Guest Mode (without registration):</strong> The app can be used without registration in guest mode. In this case, all data is stored exclusively locally on the user's device and encrypted. Synchronization between devices or with other family members is not possible in guest mode.<br><br>
+        (2) <strong>Registered Mode:</strong> With a user account, data is stored encrypted in the cloud, enabling synchronization between devices and with family members.<br><br>
+        (3) The user is obligated to provide truthful information.<br><br>
+        (4) The user account is personal and non-transferable.<br><br>
+        (5) The user is responsible for keeping their login credentials confidential.
+    </p>
+
+    <h2>§ 4 Costs and Payment Terms</h2>
+    <p>
+        (1) Basic features of the app are free to use (both in guest mode and with an account).<br><br>
+        (2) Extended features (NestPlan Plus) may be subject to fees. Current prices are displayed in the app in the respective local currency.<br><br>
+        (3) Billing is processed through the Apple App Store or Google Play Store. Their terms of service also apply.<br><br>
+        (4) Subscriptions renew automatically unless cancelled before the end of the current period.
+    </p>
+
+    <h2>§ 5 Privacy</h2>
+    <p>
+        (1) The protection of personal data is our highest priority.<br><br>
+        (2) In guest mode, all data is stored locally encrypted on the device.<br><br>
+        (3) With registered accounts, children's health data is encrypted before transmission.<br><br>
+        (4) Details on data processing can be found in our <a href="privacy-en.html">Privacy Policy</a>.<br><br>
+        (5) The user consents to the processing of their data in accordance with the Privacy Policy.
+    </p>
+
+    <h2>§ 6 User Obligations</h2>
+    <p>The user agrees to:</p>
+    <ul>
+        <li>Use the app only for legal purposes</li>
+        <li>Not enter false or misleading information</li>
+        <li>Respect the rights of other users</li>
+        <li>Not upload malicious software</li>
+        <li>Not abuse or hack the app</li>
+    </ul>
+
+    <h2>§ 7 Liability</h2>
+    <p>
+        (1) The provider is fully liable for damages resulting from injury to life, body, or health, as well as for intent and gross negligence.<br><br>
+        (2) In cases of slight negligence, the provider is only liable for breach of essential contractual obligations (cardinal obligations), limited to typical, foreseeable damages.<br><br>
+        (3) Liability for data loss is limited to typical recovery costs. In guest mode, the responsibility for data backups lies with the user.<br><br>
+        (4) Any further liability is excluded.
+    </p>
+
+    <h2>§ 8 Term and Termination</h2>
+    <p>
+        (1) The agreement runs for an indefinite period.<br><br>
+        (2) Both parties may terminate at any time without notice.<br><br>
+        (3) Termination is effected by deleting the account in the app or by uninstalling the app (in guest mode).<br><br>
+        (4) Upon termination, all user data will be deleted.<br><br>
+        (5) The right to extraordinary termination remains unaffected.
+    </p>
+
+    <h2>§ 9 Changes to Terms of Service</h2>
+    <p>
+        (1) These Terms of Service may be changed at any time.<br><br>
+        (2) Changes will be communicated in the app.<br><br>
+        (3) Continued use of the app constitutes acceptance of the modified terms.
+    </p>
+
+    <h2>§ 10 Final Provisions</h2>
+    <p>
+        (1) The laws of the Federal Republic of Germany shall apply.<br><br>
+        (2) If individual provisions are invalid, the validity of the remaining provisions shall remain unaffected.
+    </p>
+
+    <h2>§ 11 Contact</h2>
+    <p>
+        For questions or concerns about the app, please contact:<br>
+        Email: <a href="mailto:nestplan.sup@gmail.com">nestplan.sup@gmail.com</a>
+    </p>
+</body>
+</html>
