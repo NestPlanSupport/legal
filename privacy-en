@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - NestPlan</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1 { color: #007AFF; }
+        h2 { color: #333; margin-top: 30px; }
+        h3 { color: #555; margin-top: 20px; }
+        .updated { color: #666; font-size: 14px; }
+        ul { padding-left: 20px; }
+        a { color: #007AFF; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p class="updated">Last updated: January 2026</p>
+
+    <h2>1. Data Controller</h2>
+    <p>
+        Responsible for data processing in accordance with GDPR:<br><br>
+        Email: <a href="mailto:nestplan.sup@gmail.com">nestplan.sup@gmail.com</a>
+    </p>
+
+    <h2>2. Types of Use and Data Storage</h2>
+    <p>The app offers two usage types with different data processing:</p>
+
+    <h3>Guest Mode (without registration)</h3>
+    <p>In guest mode, <strong>all data is stored exclusively locally</strong> on your device:</p>
+    <ul>
+        <li>No data transmission to servers</li>
+        <li>All data is encrypted with AES-256 and stored on the device</li>
+        <li>The encryption key is securely stored in SecureStore/Keychain</li>
+        <li>No synchronization between devices possible</li>
+        <li>Data will be lost if the app is uninstalled or the device is lost</li>
+    </ul>
+
+    <h3>Registered Mode (with account)</h3>
+    <p>With a user account, data is stored encrypted in the cloud:</p>
+    <ul>
+        <li>Synchronization between devices possible</li>
+        <li>Sharing with family members possible</li>
+        <li>Health data is encrypted before transmission</li>
+    </ul>
+
+    <h2>3. Data We Collect</h2>
+    <p>We process the following personal data:</p>
+    <ul>
+        <li>Email address and password (only with registration)</li>
+        <li>Name (optional)</li>
+        <li>Family data (members, roles)</li>
+        <li>Child data (name, date of birth, health information)</li>
+        <li>Tasks and appointments</li>
+        <li>Documents and photos</li>
+        <li>Child development data (observations, skills)</li>
+    </ul>
+
+    <h2>4. Legal Basis</h2>
+    <p>Data processing is based on:</p>
+    <ul>
+        <li>Art. 6(1)(b) GDPR (contract performance)</li>
+        <li>Art. 6(1)(a) GDPR (consent for push notifications)</li>
+        <li>Art. 9(2)(a) GDPR (consent for health data)</li>
+    </ul>
+
+    <h2>5. Data Storage (for registered accounts)</h2>
+    <p>For registered accounts, your data is stored as follows:</p>
+    <ul>
+        <li>Servers: Supabase (EU servers)</li>
+        <li>Transfer encryption: TLS/SSL</li>
+        <li>Local data: On your device (SecureStore for sensitive data)</li>
+        <li>Sensitive health data is encrypted before transmission</li>
+    </ul>
+
+    <h2>6. Your Rights (GDPR)</h2>
+    <ul>
+        <li><strong>Access (Art. 15)</strong>: You can request information about your data at any time</li>
+        <li><strong>Rectification (Art. 16)</strong>: Incorrect data can be corrected</li>
+        <li><strong>Erasure (Art. 17)</strong>: You can request deletion of your data</li>
+        <li><strong>Restriction (Art. 18)</strong>: You can restrict processing</li>
+        <li><strong>Data portability (Art. 20)</strong>: Export your data in JSON format</li>
+        <li><strong>Objection (Art. 21)</strong>: You can object to processing</li>
+        <li><strong>Withdrawal (Art. 7)</strong>: Consent can be withdrawn at any time</li>
+    </ul>
+    <p><em>Note: In guest mode, all data is stored locally on your device only. You have full control over this data at all times.</em></p>
+
+    <h2>7. Data Sharing</h2>
+    <p>Your data is only shared with:</p>
+    <ul>
+        <li>Supabase (hosting provider, EU) - only for registered accounts</li>
+        <li>RevenueCat (subscription management, with EU Standard Contractual Clauses)</li>
+        <li>Apple/Google (payment processing for in-app purchases)</li>
+        <li>No sharing with third parties for advertising purposes</li>
+    </ul>
+
+    <h2>8. Cookies & Tracking</h2>
+    <p>The app uses:</p>
+    <ul>
+        <li>No cookies</li>
+        <li>No tracking for advertising purposes</li>
+        <li>Optional anonymous crash reports</li>
+    </ul>
+
+    <h2>9. Data Security</h2>
+    <p>We protect your data through:</p>
+    <ul>
+        <li>AES-256 encryption (locally in guest mode)</li>
+        <li>Row Level Security (RLS) in the database (for registered accounts)</li>
+        <li>SSL/TLS encryption for data transmission</li>
+        <li>Secure authentication (JWT)</li>
+        <li>Regular security updates</li>
+    </ul>
+
+    <h2>10. Protection of Minors</h2>
+    <p>The app is designed for families and intended for persons aged 16 years and older. Children's data is only processed with the consent of parents or legal guardians.</p>
+
+    <h2>11. Contact & Complaints</h2>
+    <p>
+        For privacy questions:<br>
+        Email: <a href="mailto:nestplan.sup@gmail.com">nestplan.sup@gmail.com</a>
+    </p>
+    <p>You have the right to lodge a complaint with a data protection supervisory authority.</p>
+</body>
+</html>
